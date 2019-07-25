@@ -4,7 +4,7 @@ Mas pruebas
 
 ## Otro sub
 
-*Más* _texto_
+**Más** _texto_
 
 1. Ignacio
 1. Darla
